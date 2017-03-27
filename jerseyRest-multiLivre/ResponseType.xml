@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<responseType>
+  <titre>Interactive Theorem Proving and Program Development</titre>
+  <auteur>
+    <nom>Bertot</nom>
+    <prenom>Yves</prenom>
+  </auteur>
+  <auteur>
+    <nom>Castéran</nom>
+    <prenom>Pierre</prenom>
+  </auteur>
+  <bibliotheque>
+    <nom>TOULOUSE3-Bib Math. et Méca.</nom>
+    <distance>0.05459066852927208</distance>
+  </bibliotheque>
+  <bibliotheque>
+    <nom>METZ-UL-BU METZ MOSELLE</nom>
+    <distance>7.278217315673828</distance>
+  </bibliotheque>
+</responseType>

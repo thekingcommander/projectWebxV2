@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-projet-Story1" />
+        <module name="jerseyRest-multiLivre" />
+        <module name="multiLivre-SpringWS" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-projet-Story1" target="1.8" />
+      <module name="jerseyRest-multiLivre" target="1.8" />
+      <module name="multiLivre-SpringWS" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

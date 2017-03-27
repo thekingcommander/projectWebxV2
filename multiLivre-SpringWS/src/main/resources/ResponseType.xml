@@ -1,0 +1,90 @@
+<Response xmlns="https://example.com/webx/multi-livre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://example.com/webx/multi-livre multi-livre.xsd">
+<result>
+<titre>Interactive Theorem Proving and Program Development</titre>
+<auteur>
+<nom>Brezis</nom>
+<prenom>Haim</prenom>
+</auteur>
+<bibliotheque>
+<nom>NICE-Bibl.Mathématiques</nom>
+<distance>5.8496503829956055</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>BREST-Télécom Bretagne</nom>
+<distance>7.64534854888916</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>TOULOUSE3-Bib Math. et Méca.</nom>
+<distance>0.05459066852927208</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>TOULOUSE-ISAE</nom>
+<distance>0.06854286789894104</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>BORDEAUX-UB-Bib.BMI</nom>
+<distance>2.344137668609619</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>MONTPELLIER-BU Sciences</nom>
+<distance>2.443669319152832</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>RENNES-INSA</nom>
+<distance>5.454003810882568</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>TOURS-Bib. Maths Physique Theor.</nom>
+<distance>3.8148717880249023</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>GRENOBLE-Inst.Fourier</nom>
+<distance>4.635854244232178</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>ORLEANS-MAPMO</nom>
+<distance>4.274799346923828</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>NANCY-UL-BU RECH. MAT.</nom>
+<distance>6.936525344848633</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>METZ-UL-BU METZ MOSELLE</nom>
+<distance>7.278217315673828</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>LILLE1-UFR Maths pures &amp; appliq.</nom>
+<distance>7.229050159454346</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>CLERMONT FD2-Mathématiques</nom>
+<distance>2.7432498931884766</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>PAU-Bibliothèque de l'IPRA</nom>
+<distance>43.62684631347656</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>LYON1-BU.Sciences</nom>
+<distance>4.083254814147949</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>LYON1-BU Sciences Mathématique</nom>
+<distance>4.079982757568359</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>LYON-BDL-Sciences</nom>
+<distance>4.0185065269470215</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>PARIS6-BUPMC-Math Info Recherche</nom>
+<distance>5.324301242828369</distance>
+</bibliotheque>
+<bibliotheque>
+<nom>PARIS6-BUPMC-Bibli des licences</nom>
+<distance>5.326671123504639</distance>
+</bibliotheque>
+</result>
+</Response>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="multiLivre-SpringWS:war">
+    <output-path>$PROJECT_DIR$/multiLivre-SpringWS/target</output-path>
+    <root id="archive" name="multiLivre-SpringWS.war">
+      <element id="artifact" artifact-name="multiLivre-SpringWS:war exploded" />
+    </root>
+  </artifact>
+</component>

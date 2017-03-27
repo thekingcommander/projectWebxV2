@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-projet-Story1/client-projet-Story1.iml" filepath="$PROJECT_DIR$/client-projet-Story1/client-projet-Story1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jerseyRest-multiLivre/jerseyRest-multiLivre.iml" filepath="$PROJECT_DIR$/jerseyRest-multiLivre/jerseyRest-multiLivre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiLivre-SpringWS/multiLivre-SpringWS.iml" filepath="$PROJECT_DIR$/multiLivre-SpringWS/multiLivre-SpringWS.iml" />
+    </modules>
+  </component>
+</project>
